@@ -1,4 +1,3 @@
-# cat-photo-app
 <!DOCTYPE html>
 
 
